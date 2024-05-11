@@ -7,7 +7,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <section className="pt-24">
-      <div className="container space-y-2">
+      <div className="container space-y-2 text-center">
         <h1 className="text-2xl font-bold text-slate-800 dark:text-slate-100 md:text-3xl  lg:text-3xl xl:text-4xl">
           Game Log Tracker
         </h1>
